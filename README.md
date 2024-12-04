@@ -1,6 +1,20 @@
 
 ---
-### 🚧🛑 Under heavy Development, no release candidate yet 🚧🛑
+
+# 🚧 Project Archived: QuickPin 🚧
+
+The "QuickPin" project has been publicly archived because the core functionality of creating shortcuts directly from the browser via a shortcut key or button is not natively supported by standard browser extensions. However, we have conceptualized a bridge solution that aims to overcome this limitation.
+
+## Bridge Solution Concept
+
+The idea is to develop a comprehensive toolset that integrates seamlessly with the browser, allowing users to create desktop shortcuts for websites with a simple shortcut key or button click. This toolset will act as a bridge between the browser and the operating system, automating the shortcut creation process and enhancing the overall user experience.
+
+## Future Updates
+
+I will post updates and provide a link to the new project in this README as soon as development begins. Stay tuned for more information on how this innovative solution will bring enhanced functionality and convenience to your browsing experience.
+
+Thank you for your interest and support!
+
 ---
 
 # ChromeQuickPin
